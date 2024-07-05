@@ -11,13 +11,13 @@ The script utilizes the `pytube` library to handle the downloading process.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/juniofreitas/downloader_playlist_yt.git
    ```
 
 2. Change into the project directory:
 
    ```
-   cd repository
+   cd downloader_playlist_yt
    ```
 
 3. Install the required dependencies:
