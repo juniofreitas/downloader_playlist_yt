@@ -1,0 +1,25 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Arquivos gerados pelo ambiente virtual
+venv/
+env/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração
+*.ini
+*.cfg
+
+# Arquivos de dados sensíveis
+config.json
+secrets.txt
+
+# Outros arquivos e diretórios
+*.swp
+.DS_Store
+
+youtube/
+.history/
